@@ -1,0 +1,1 @@
+Click any cell on the grid to toggle it on (green) and off (gray). Once you are satisfied with the pattern, click "Run" button to run the animation. This game allows you to:- Pause and then continue;- Wipe out the game board for a new pattern;- Change the grid size by typing in rows and columns - the number should be from 3 to 100.
